@@ -22,6 +22,7 @@ int main(){
         f=f*i;
     } cout << "el factorial del numero es: " << f << endl;
 }
+system("pause");
 return 0;
 }
 

@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <stdlib.h>
 using namespace std;
 
 int main()
@@ -18,6 +18,6 @@ int main()
         cout << "su total es: " << tot << endl;
         float med = tot/n;
         cout << "la media aritmetica es: " << med << endl;
-
+system("pause");
     return 0;
 }

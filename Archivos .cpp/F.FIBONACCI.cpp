@@ -26,5 +26,6 @@ int main(){
 
         cout <<b<<", ";
     }
+    system("pause");
 return 0;
 }

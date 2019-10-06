@@ -185,7 +185,7 @@ break;
             cout << "El resultado es: " << pot << endl;
         }
 
-
+system("pause");
     return 0;
 }}
 
